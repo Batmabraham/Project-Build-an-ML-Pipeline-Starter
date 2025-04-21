@@ -1,6 +1,8 @@
 W&B Project Link:
 https://wandb.ai/batmabraham-western-governors-university/nyc_airbnb/overview
 
+Github Project Link:
+https://github.com/Batmabraham/Project-Build-an-ML-Pipeline-Starter 
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
